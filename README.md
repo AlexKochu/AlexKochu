@@ -195,7 +195,7 @@ mindmap
 <br/>
 
 <div align="center">
-  <p><i>"Houston, we have an insight."</i></p>
+  <p><i>“Bridging data and decision-making with precision — Alex.”</i></p>
   <a href="https://visitcount.itsvg.in">
   </a>
 </div>
