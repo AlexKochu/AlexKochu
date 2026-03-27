@@ -148,6 +148,47 @@
 <br/>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="5" width="100%" />
+</div>
+
+<br/>
+
+<h2 align="center">🎯 CURRENT FOCUS 🎯</h2>
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#e8f4f8', 'primaryTextColor': '#1a1a2e', 'primaryBorderColor': '#2c3e50', 'lineColor': '#4a4a6a', 'secondaryColor': '#fef9e7', 'tertiaryColor': '#eafaf1', 'background': '#ffffff', 'mainBkg': '#e8f4f8', 'nodeBorder': '#2c3e50', 'fontFamily': 'monospace', 'fontSize': '15px'}}}%%
+mindmap
+  root((Alex))
+    MLOps
+      CI/CD for ML
+      Docker and Kubernetes
+      ML Monitoring
+      Model Deployment
+    NLP
+      LangChain and RAG
+      Sentiment Analysis
+      Text Classification
+      Named Entity Recognition
+    Development
+      Data Pipelines
+      Backend Systems
+      API Development
+      System Design
+    Analytics
+      Feature Engineering
+      EDA and Visualization
+      A/B Testing
+      Statistical Analysis
+    AI and GenAI
+      Large Language Models
+      Computer Vision
+      Generative AI
+      Prompt Engineering
+```
+
+<br/>
+
+<div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" height="40" width="100%" />
 </div>
 
