@@ -106,7 +106,7 @@
       <i style="color: #9CA3AF;">Three-time certified professional</i>
     </td>
     <td width="33%">
-      <img src="https://img.shields.io/badge/👨🚀_HR_Certified-0A0A0A?style=for-the-badge&logoColor=FEECA1" /><br/>
+      <img src="https://img.shields.io/badge/👨‍🚀_HR_Certified-0A0A0A?style=for-the-badge&logoColor=FEECA1" /><br/>
       <i style="color: #9CA3AF;">People & operations expertise</i>
     </td>
     <td width="33%">
@@ -153,7 +153,7 @@
 
 <br/>
 
-<h2 align="center">+ CURRENT FOCUS +</h2>
+<h2 align="center">🎯 CURRENT FOCUS 🎯</h2>
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#e8f4f8', 'primaryTextColor': '#1a1a2e', 'primaryBorderColor': '#2c3e50', 'lineColor': '#4a4a6a', 'secondaryColor': '#fef9e7', 'tertiaryColor': '#eafaf1', 'background': '#ffffff', 'mainBkg': '#e8f4f8', 'nodeBorder': '#2c3e50', 'fontFamily': 'monospace', 'fontSize': '15px'}}}%%
@@ -196,5 +196,7 @@ mindmap
 
 <div align="center">
   <p><i>"Houston, we have an insight."</i></p>
-  <img src="https://img.shields.io/badge/Profile%20Views-750-9C88FF?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=9C88FF" alt="Views"/>
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AlexKochu&icon=1&color=0" alt="Views"/>
+  </a>
 </div>
