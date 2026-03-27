@@ -153,7 +153,7 @@
 
 <br/>
 
-<h2 align="center">🎯 CURRENT FOCUS 🎯</h2>
+<h2 align="center">+ CURRENT FOCUS +</h2>
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': {'primaryColor': '#e8f4f8', 'primaryTextColor': '#1a1a2e', 'primaryBorderColor': '#2c3e50', 'lineColor': '#4a4a6a', 'secondaryColor': '#fef9e7', 'tertiaryColor': '#eafaf1', 'background': '#ffffff', 'mainBkg': '#e8f4f8', 'nodeBorder': '#2c3e50', 'fontFamily': 'monospace', 'fontSize': '15px'}}}%%
