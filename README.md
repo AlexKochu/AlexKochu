@@ -106,7 +106,7 @@
       <i style="color: #9CA3AF;">Three-time certified professional</i>
     </td>
     <td width="33%">
-      <img src="https://img.shields.io/badge/👨‍🚀_HR_Certified-0A0A0A?style=for-the-badge&logoColor=FEECA1" /><br/>
+      <img src="https://img.shields.io/badge/👨🚀_HR_Certified-0A0A0A?style=for-the-badge&logoColor=FEECA1" /><br/>
       <i style="color: #9CA3AF;">People & operations expertise</i>
     </td>
     <td width="33%">
@@ -196,7 +196,5 @@ mindmap
 
 <div align="center">
   <p><i>"Houston, we have an insight."</i></p>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AlexKochu&icon=1&color=0" alt="Views"/>
-  </a>
+  <img src="https://img.shields.io/badge/Profile%20Views-750-9C88FF?style=for-the-badge&labelColor=0A0A0A&logo=github&logoColor=9C88FF" alt="Views"/>
 </div>
