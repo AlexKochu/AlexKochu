@@ -197,6 +197,5 @@ mindmap
 <div align="center">
   <p><i>"Houston, we have an insight."</i></p>
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=AlexKochu&icon=1&color=0" alt="Views"/>
   </a>
 </div>
